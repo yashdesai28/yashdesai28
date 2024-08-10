@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@yashdesai281](https://medium.com/@yashdesai281)
 
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_username)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][https://www.hackerrank.com/profile/yashdesai281]
 
 - 📫 How to reach me **yashdesai281@gmail.com**
 
